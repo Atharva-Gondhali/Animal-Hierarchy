@@ -11,8 +11,10 @@ This is a menu-driven code that allows the user to select any animal and get its
 3.	Type of Blood
 4.	Diet
 5.	Places usually found in
-This code was written with the help of multilevel inheritance and polymorphism 
+This code was written with the help of multilevel inheritance and polymorphism
+
 Polymorphism is used in 2 ways:
 1.	Function overriding in a virtual function “virtual void sound_made()”.
 2.	Dynamic Binding is used while creating an array of pointers in base class animal to store the data of each animal.
-Inheritance is used as shown
+
+Inheritance is used as shown in https://github.com/Atharva-Gondhali/Animal-Hierarchy/blob/main/Animal%20Hierarchy%20Inheritance%20Class%20Diaagram.png
